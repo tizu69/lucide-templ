@@ -1,0 +1,3 @@
+[submodule "generate/ref"]
+	path = generate/ref
+	url = https://github.com/lucide-icons/lucide
